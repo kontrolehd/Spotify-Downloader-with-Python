@@ -1,0 +1,8 @@
+flask
+spotipy
+yt-dlp
+ffmpeg-python
+mutagen
+requests
+python-dotenv
+gunicorn
